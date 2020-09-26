@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HeartFill</string>
+    <string name="heart_image">HeartImage</string>
+</resources>
